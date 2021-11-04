@@ -1847,8 +1847,8 @@ body.ie ._ibg img {
 @media (min-width: 767.98px) {
   .wrapper {
     background-image: url("../img/paig-bg.png");
-    background-position: -410px -200px;
-    background-size: calc(100% + 650px) auto;
+    background-position: -410px 230px;
+    background-size: calc(100% + 550px) auto;
     background-repeat: no-repeat;
   }
 
